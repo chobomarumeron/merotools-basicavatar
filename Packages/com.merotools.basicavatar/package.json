@@ -1,7 +1,7 @@
 {
   "name": "com.merotools.basicavatar",
   "displayName": "MeroTools BasicAvatar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2022.3",
   "description": "VRChatアバターの基本セットアップ(Anchor Object / MA MeshSettings / AAO / VRCFury Fix Write Defaults / LAC / MA Floor Adjuster)をチェックで選んで一括実行・一括削除するエディタ拡張。",
   "keywords": [
@@ -11,8 +11,8 @@
     "setup"
   ],
   "author": {
-    "name": "YourName",
-    "url": "https://github.com/yourname"
+    "name": "めろんちょぼまる",
+    "url": "https://github.com/chobomarumeron"
   },
   "license": "MIT"
 }
